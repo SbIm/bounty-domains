@@ -539,3 +539,5 @@ zomato.com
 zomatobook.com
 zynga.com
 zyngagames.com
+agoda.com
+uber.com
