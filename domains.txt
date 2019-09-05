@@ -259,7 +259,6 @@ muscache.com
 myastaro.com
 myfitnesspal.com
 myseek.xyz
-myshopify.com
 myteksi.com
 myteksi.net
 netflix.com
@@ -390,7 +389,6 @@ taobao.com
 teamfortress.com
 teavana.com
 teleatlas.com
-telefonica.de
 tesla.cn
 tesla.com
 tesla.services
@@ -451,7 +449,6 @@ tripit.com
 trustpilot.com
 trycaviar.com
 tudou.com
-tumblr.com
 turkei-sim.de
 twilio.com
 twimg.com
@@ -461,7 +458,6 @@ txmblr.com
 ubnt.com
 uc.cn
 ucweb.com
-umblr.com
 umeng.com
 underarmour.co.uk
 underarmour.com
@@ -534,7 +530,6 @@ youneedabudget.com
 youporn.com
 zeit.co
 zeit.sh
-zendesk.com
 zomato.com
 zomatobook.com
 zynga.com
